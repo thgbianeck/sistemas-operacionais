@@ -1,0 +1,87 @@
+Sou INICIANTE em Sistemas Operacionais, tenho conhecimento básico de programação. Estou começando a aprender SO do zero, no meu primeiro dia de estudos.
+
+Crie um material de estudo completo usando DESIGN INSTRUCIONAL e técnicas de aprendizagem efetiva sobre:
+
+CONTEÚDO TÉCNICO:
+1. Definição e propósito de um Sistema Operacional
+2. História: DOS, Unix, Linux, Windows, MacOS
+3. Componentes principais: kernel, shell, drivers, filesystem
+4. Tipos de SO: batch, time-sharing, real-time, distributed
+5. Arquitetura em camadas (hardware → kernel → API → aplicações)
+6. System calls: interface entre aplicação e SO
+
+ESTRUTURA BASEADA EM DESIGN INSTRUCIONAL:
+
+📋 OBJETIVOS DE APRENDIZAGEM (SMART):
+- Liste 3-5 objetivos claros, mensuráveis e específicos do dia
+- Use verbos de ação (identificar, explicar, distinguir, demonstrar)
+
+🎭 ATIVAÇÃO DO CONHECIMENTO PRÉVIO:
+- Perguntas para conectar com experiências do aluno
+- Analogia central: SO como "Maestro de uma Orquestra Digital"
+- História introdutória envolvente (2-3 parágrafos)
+
+📚 APRESENTAÇÃO DO CONTEÚDO:
+- Informação em blocos pequenos (chunking)
+- Linha do tempo visual da evolução dos SO
+- DIAGRAMAS MERMAID/UML OBRIGATÓRIOS:
+  * Diagrama de arquitetura em camadas do SO
+  * Fluxograma de interação: aplicação → system call → kernel → hardware
+  * Mapa mental dos componentes principais
+  * Comparação visual entre tipos de SO
+- Anatomia de um system call
+- Glossário de termos técnicos
+
+💡 DEMONSTRAÇÃO E MODELAGEM:
+- Exemplo prático de system call
+- Demonstração de comandos de terminal
+- Visualização de processos do sistema
+
+🎯 PRÁTICA GUIADA (APENAS 1 EXERCÍCIO COMPLETO):
+- Exercício principal: Explorador do Sistema Operacional
+  * Contexto e motivação do exercício
+  * Objetivo claro do que será explorado
+  * Especificação detalhada
+  * Comandos para executar (Windows e Linux)
+  * Dicas progressivas
+  * Interpretação dos resultados
+  * Variações opcionais para explorar
+  * Conexão com mundo real
+
+🔄 FEEDBACK E AVALIAÇÃO:
+- Checklist de verificação
+- Erros comuns e soluções
+- Troubleshooting detalhado
+- Auto-avaliação (3-5 perguntas reflexivas)
+
+🚀 TRANSFERÊNCIA E APLICAÇÃO:
+- Desafio bônus opcional
+- Conexão com próximo dia
+- Recursos extras para aprofundamento
+
+TÉCNICAS PEDAGÓGICAS A USAR:
+- Andragogia (aprendizagem de adultos)
+- Storytelling (história do maestro)
+- Scaffolding (suporte gradual)
+- Chunking (informação em pedaços digestíveis)
+- Dual coding (texto + visual)
+- Elaboration (conexões com conhecimento prévio)
+- Retrieval practice (questões de fixação)
+- Spaced repetition (revisar conceitos anteriores)
+
+DIAGRAMAS MERMAID OBRIGATÓRIOS (mínimo 4):
+1. Arquitetura em camadas do SO
+2. Fluxograma de system call
+3. Comparação entre tipos de SO
+4. Mapa mental dos conceitos do dia
+
+IMPORTANTE:
+- Use MUITAS analogias do mundo real
+- Explique como se fosse para uma pessoa sem conhecimento técnico
+- Não assuma conhecimento prévio de SO
+- Cada conceito técnico: analogia + explicação + diagrama + exemplo
+- Intercale teoria e prática constantemente
+- Tom encorajador e motivacional
+- Celebre pequenas vitórias
+
+Formato: markdown estruturado, muito visual, com diagramas Mermaid, analogias criativas e checkpoints.
